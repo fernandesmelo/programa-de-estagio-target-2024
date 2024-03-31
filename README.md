@@ -26,7 +26,7 @@ Antes de começar, certifique-se de ter instalado em seu sistema operacional:
    * A partir daqui, você pode explorar, editar e trabalhar com os arquivos da pasta aberta diretamente no VSCode.
 
 ### 🎉 Parabéns!
-Agora você tem o projeto Python instalado e rodando localmente. Bom desenvolvimento!
+Agora você tem os desafios em Python instalado e rodando localmente. Bom desenvolvimento!
 
 ## ⚙️ Executando os Testes
 
