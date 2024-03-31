@@ -1,4 +1,4 @@
-# Programa de Estágio da Target 2024
+# Desafios
 
 Desenvolvi esses desafios através do processo seletivo do programa de estágio da [Target](https://www.linkedin.com/company/target/).
 
