@@ -1,6 +1,6 @@
 # Desafios
 
-Desenvolvi esses desafios através do processo seletivo do programa de estágio da [Target](https://www.linkedin.com/company/target/).
+Desenvolvi esses desafios através do processo seletivo do programa de estágio em desenvolvimento de software da [Target](https://www.linkedin.com/company/target/).
 
 ## 📝 Sobre o Desafio - Descrição
 Os desafios eram resolver 5 problemas usando uma linguagem de programação. 
