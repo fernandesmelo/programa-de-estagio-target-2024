@@ -3,7 +3,7 @@
 Desenvolvi esses desafios através do processo seletivo do programa de estágio da [Target](https://www.linkedin.com/company/target/).
 
 ## 📝 Sobre o Desafio - Descrição
-Os desfios eram resolver 5 problemas usando uma linguagem de programação. 
+Os desafios eram resolver 5 problemas usando uma linguagem de programação. 
 
 ## 🚀 Começando
 Essas instruções permitirão que você tenha uma cópia do projeto em execução na sua máquina local para desenvolvimento e testes.
