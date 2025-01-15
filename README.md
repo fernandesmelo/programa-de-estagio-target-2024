@@ -28,10 +28,6 @@ Antes de começar, certifique-se de ter instalado em seu sistema operacional:
 ### 🎉 Parabéns!
 Agora você tem os desafios em Python instalado e rodando localmente. Bom desenvolvimento!
 
-## ⚙️ Executando os Testes
-
-Próximos passos...
-
 ## 🛠️ Construído com
 <div style="display: inline-block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -42,5 +38,7 @@ Próximos passos...
 * Python 3.12
 
 ## ✒️ Autor
-
 * **Laércio Fernandes** - [LinkedIn](https://www.linkedin.com/in/laercio-fernandes/)
+
+## ⚙️ Executando os Testes
+Próximos passos...
